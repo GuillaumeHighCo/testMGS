@@ -1,0 +1,6 @@
+framework module MGSFramework {
+  umbrella header "MGSFramework.h"
+
+  export *
+  module * { export * }
+}
